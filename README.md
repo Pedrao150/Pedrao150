@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **Pedrao150/Pedrao150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,5 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about technology
 - 📫 How to reach me: by instagram: @p_n3ves; by gmail: pedroholiveira784@gmail.com 
 - 😄 Pronouns: he/him 
-- ⚡ Fun fact: I'm learning english since I was 8
--->
+- ⚡ Fun fact: I'm m learning english since I was 8
